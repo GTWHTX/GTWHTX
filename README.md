@@ -17,7 +17,7 @@ I like working low in the stack: Linux, reverse engineering, Android internals, 
 
 **Side projects**
 
-- 🧠 [hiragana-net](https://github.com/GTWHTX/hiragana-net): a neural net in plain C that recognises handwritten hiragana, trained with my own backprop
+- 🧠 [hiragana-net](https://github.com/GTWHTX/neuralnetwork): a neural net in plain C that recognises handwritten hiragana, trained with my own backprop
 
 **Stack**
 
